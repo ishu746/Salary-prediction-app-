@@ -2,11 +2,6 @@
 
 This Streamlit web app predicts whether an employee earns more than 50K based on input attributes like age, education, occupation, and more.
 
-## 🚀 Live App
-
-👉 [Click here to use the app](https://your-username.streamlit.app)  
-
-
 ---
 
 ## 📂 Files Included
@@ -36,3 +31,4 @@ git clone https://github.com/ishu746/salary-prediction-app
 cd salary-prediction-app
 pip install -r requirements.txt
 streamlit run app.py
+
